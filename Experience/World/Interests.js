@@ -212,7 +212,7 @@ export default class Interests {
       {
         'image': '/images/img-arcadia.jpg',
         'logo': '/images/logo-arcadia.svg',
-        'title': 'Arcadia Restaurant',
+        'title': 'some food',
         'lead': `Authentic Mediterranean dining at the heart of Lausanne's arts district`,
         'description': `Arcadia Restaurant, with its seven iconic arches, opens the door to a la carte Mediterranean cuisine, balancing fresh flavours with seasonal local ingredients and products. Our menu is served alongside an inspired cocktail offering and a selection of local beer and wines. <br><br>
         For those looking for a relaxed, tasty, and inclusive dining experience, whether at lunch for everyday cooking or in the evening for a more special occasion. Always in a relaxed and friendly environment.`,
