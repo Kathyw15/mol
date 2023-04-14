@@ -40,27 +40,15 @@ export default class Interests {
   setInterests() {
     this.points = [
       {
-        position: new THREE.Vector3(2.62, 1.2, 0.9),
+        position: new THREE.Vector3(2.62, 1.3, 0.9),
         element: document.querySelector('.mcba')
-      },
-      {
-        position: new THREE.Vector3(-3.75, 1.2, 0.25),
-        element: document.querySelector('.mudac')
-      },
-      {
-        position: new THREE.Vector3(-3.75, 1.2, -1.55),
-        element: document.querySelector('.elysee')
       },
       {
         position: new THREE.Vector3(-0.65, 0.17, -1.2),
         element: document.querySelector('.arcadia')
       },
       {
-        position: new THREE.Vector3(3.12, 0.17, 0.41),
-        element: document.querySelector('.nabi')
-      },
-      {
-        position: new THREE.Vector3(-4.26, 0.17, 0.66),
+        position: new THREE.Vector3(-4.26, 1.17, 0.66),
         element: document.querySelector('.lumen')
       }
     ]
@@ -189,23 +177,10 @@ export default class Interests {
       {
         'image': '/images/img-elysee.jpg',
         'logo': '/images/logo-elysee.svg',
-        'title': 'Photo Elysée',
-        'lead': 'Photo Elysée is one of the most important museums entirely dedicated to the photographic medium. Each year, we produce demanding exhibitions, distribute reference editorial content, conceive innovative events and offer events open to all.',
-        'description': `Since its creation in 1985 as a “museum for photography”, Photo Elysée has been questioning the permanent reinvention of the medium through the great figures who have marked its history by imagining new ways of seeing or making people see, while revealing in a privileged way the emerging photography which, through unseen views, bears witness to the world of today and prefigures that of tomorrow. In other words: to cover all the subjects of photography, to discover them sometimes, and above all to make them rediscovered. <br><br>
-        The museum’s collection of more than 1,200,000 phototypes covers the entire field of photography, from the first processes dating from the 1840s to the digital image. It includes many complete photographic collections or archives, including those of Sabine Weiss, Jan Groover, René Burri, Ella Maillart, Nicolas Bouvier, Charlie Chaplin, Gertrude Fehr, Hans Steiner and Olivier Föllmi.`,
-        'schedule': [
-          '10:00 - 18:00',
-          'Closed',
-          '10:00 - 18:00',
-          '10:00 - 20:00',
-          '10:00 - 18:00',
-          '10:00 - 18:00',
-          '10:00 - 18:00'
-        ],
-        'contact': [
-          '+41 21 318 44 00',
-          'info@elysee.ch'
-        ],
+        'title': 'Hidden Hygiene',
+        'lead': '"Hidden Hygiene" is a groundbreaking exhibit that challenges the limitations of commercial 3D image libraries, which perpetuate false neutrality and the "mythical norm" as described by Audre Lorde.',
+        'description': `This exhibit, part of the Missing Object Library (MOL), focuses on personal care objects and practices, viewed through the lens of feminist technologies. By offering 3D models that consider a range of social categorizations, MOL disrupts the historical gatekeeping of mainstream asset libraries. "Hidden Hygiene" showcases thoughtfully curated models by diverse artists, designers, and historians, illuminating the unique experiences of women and non-binary individuals from various cultures and backgrounds. <br><br> Explore the untold stories of personal care, from menstrual care innovations to adaptive aids for mothers with disabilities. As an open platform, MOL aims to critique existing 3D model databases and inspire a more inclusive dialogue around hygiene and self-care, empowering creators, educators, and the general public to engage with diverse perspectives and embrace the richness of human experiences.`,
+    
         'website': 'https://elysee.ch/en'
       },
       // Restaurants & Cafés
