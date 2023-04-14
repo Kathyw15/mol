@@ -50,7 +50,19 @@ export default class Interests {
       {
         position: new THREE.Vector3(-4.26, 1.17, 0.66),
         element: document.querySelector('.lumen')
-      }
+      },
+      // {
+      //   position: new THREE.Vector3(3.12, 0.17, 0.41),
+      //   element: document.querySelector('.nabi')
+      // },
+      {
+        position: new THREE.Vector3(-3.75, 1.2, -1.55),
+        element: document.querySelector('.elysee')
+      },
+      // {
+      //   position: new THREE.Vector3(-3.75, 1.2, 0.25),
+      //   element: document.querySelector('.mudac')
+      // },
     ]
 
     // Debug
@@ -175,11 +187,14 @@ export default class Interests {
         'website': 'https://mudac.ch/en/'
       },
       {
-        'image': '/images/trashcan.png',
+        'image': '/images/Groupphoto.png',
         'logo': 'MOL.png',
-        'title': 'Hidden Hygiene',
-        'lead': '"Hidden Hygiene" is a groundbreaking exhibit that challenges the limitations of commercial 3D image libraries, which perpetuate false neutrality and the "mythical norm" as described by Audre Lorde.',
-        'description': `This exhibit, part of the Missing Object Library (MOL), focuses on personal care objects and practices, viewed through the lens of feminist technologies. By offering 3D models that consider a range of social categorizations, MOL disrupts the historical gatekeeping of mainstream asset libraries. "Hidden Hygiene" showcases thoughtfully curated models by diverse artists, designers, and historians, illuminating the unique experiences of women and non-binary individuals from various cultures and backgrounds. <br><br> Explore the untold stories of personal care, from menstrual care innovations to adaptive aids for mothers with disabilities. As an open platform, MOL aims to critique existing 3D model databases and inspire a more inclusive dialogue around hygiene and self-care, empowering creators, educators, and the general public to engage with diverse perspectives and embrace the richness of human experiences.`,
+        'title': 'Our Vision',
+        'lead': 'MOL is envisioned and developed by Jill Miller, Asma Kazmi and Kathy Wang to imagine just digital futures.',
+        'description': `Jill Miller is a visual artist and Assistant Professor in Art Practice at UC Berkeley. She works across a wide range of media, from video installation to public practices (and many hybrids in between). She often collaborates with individuals and local communities in the form of public interventions, workshops, and participatory community projects. 
+        <br><br> Asma Kazmi is an artist who blends physical and virtual spaces. Her sculptures, connoting materiality, cultural lineage, and craft are juxtaposed with virtual and augmented reality models of art historical objects and particular geographies. Taking an expansive approach to installation art, she researches and reassesses the intertwining histories of Western colonialism and her diasporic Muslim culture. Using transgressive curatorial tactics, she combines visual and textual detritus from historical manuscripts, photographs, archival material, fragments of locations, and mixes them with her own “critical fabulation.” Drawing on her own history as a third generation émigré, migrating across continents, Kazmi’s installations are experimental museums that make use of Islamic display devices and strategies to address colonial and indigenous technologies and knowledge systems, global flows of people and commodities, and interspecies entanglements.
+        <br><br> 
+        Kathy is an designer, researcher and creative technologist based in the Bay Area. She specializes in designing prototypes, interfaces and interactions for emerging technologies like AR/VR and Artificial Intelligence, exploring the possibilities at the intersection of reality and the digital world.`,
     
         'website': 'https://elysee.ch/en'
       },
