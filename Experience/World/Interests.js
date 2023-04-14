@@ -175,7 +175,7 @@ export default class Interests {
         'website': 'https://mudac.ch/en/'
       },
       {
-        'image': '/images/img-elysee.jpg',
+        'image': '/images/trashcan.png',
         'logo': 'MOL.png',
         'title': 'Hidden Hygiene',
         'lead': '"Hidden Hygiene" is a groundbreaking exhibit that challenges the limitations of commercial 3D image libraries, which perpetuate false neutrality and the "mythical norm" as described by Audre Lorde.',
@@ -231,7 +231,7 @@ export default class Interests {
         'website': 'https://www.mcba.ch/en/cafe-restaurant-2/'
       },
       {
-        'image': '/images/img-lumen.jpg',
+        'image': '/images/trashcan.png',
         'logo': '/images/MOL.png',
         'title': 'Hidden Hygiene',
         'lead': `Hidden Hygiene" is a groundbreaking exhibit that challenges the limitations of commercial 3D image libraries, which perpetuate false neutrality and the "mythical norm" as described by Audre Lorde.`,
