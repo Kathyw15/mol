@@ -130,12 +130,12 @@ export default class Interests {
     const infos = [
       // Museums
       {
-        'image': '/images/img-mcba.jpg',
-        'logo': '/images/logo-mcba.svg',
-        'title': 'Musée Cantonal des Beaux-Arts Lausanne',
-        'lead': 'Opened in 1841, the Vaud Museum of Fine Arts in Lausanne is one of the oldest Swiss museums exclusively dedicated to art. Now located in Plateforme 10, it presents several temporary exhibitions a year from its collection of 10,000 works.',
-        'description': `Ducros, Gleyre, Steinlen, Vallotton and Soutter: these are some of the Vaudois painters for which the Vaud Museum of Fine Arts (MCBA) is known, nationally and internationally. Their works form a large part of the museum’s collection, currently comprising some 10,000 paintings. <br><br>
-        The MCBA organises several temporary exhibitions every year, each one accompanied with a programme of cultural activities including events, guided tours and workshops for adults and children. Admission is free on the first Saturday of the month.`,
+        'image': '/images/Rehal.jpg' ,
+        'logo': '/images/MOL.png',
+        'title': 'Non-Western Display Devices',
+        'lead': 'Non-Western Display Device is an innovative exhibit that challenges the conventional narrative perpetuated by commercial 3D image libraries, which often promote a Western-centric view of technology and design.',
+        'description': `This exhibit, part of the Missing Object Library (MOL), showcases an array of display devices and communication tools rooted in non-Western cultures and traditions. By bringing together the work of diverse artists, designers, and historians, MOL aims to shift the focus from the mainstream narrative and celebrate the rich technological heritage of non-Western societies. "Non-Western Display Device" features a thoughtfully curated collection of 3D models representing various communication tools and devices, such as the rehel, an X-shaped foldable book rest used in Islamic societies. <br><br>
+        Through this exhibit, we invite you to delve into the world of non-Western innovations and discover the untold stories behind these display devices. MOL strives to create a more inclusive and equitable representation of technology in new media art and commercial projects, empowering creators, educators, and the general public to engage with diverse perspectives and embrace the wide array of human experiences.`,
         'schedule': [
           'Closed',
           '10:00 - 18:00',
@@ -176,7 +176,7 @@ export default class Interests {
       },
       {
         'image': '/images/img-elysee.jpg',
-        'logo': '/images/logo-elysee.svg',
+        'logo': 'MOL.png',
         'title': 'Hidden Hygiene',
         'lead': '"Hidden Hygiene" is a groundbreaking exhibit that challenges the limitations of commercial 3D image libraries, which perpetuate false neutrality and the "mythical norm" as described by Audre Lorde.',
         'description': `This exhibit, part of the Missing Object Library (MOL), focuses on personal care objects and practices, viewed through the lens of feminist technologies. By offering 3D models that consider a range of social categorizations, MOL disrupts the historical gatekeeping of mainstream asset libraries. "Hidden Hygiene" showcases thoughtfully curated models by diverse artists, designers, and historians, illuminating the unique experiences of women and non-binary individuals from various cultures and backgrounds. <br><br> Explore the untold stories of personal care, from menstrual care innovations to adaptive aids for mothers with disabilities. As an open platform, MOL aims to critique existing 3D model databases and inspire a more inclusive dialogue around hygiene and self-care, empowering creators, educators, and the general public to engage with diverse perspectives and embrace the richness of human experiences.`,
@@ -185,12 +185,15 @@ export default class Interests {
       },
       // Restaurants & Cafés
       {
-        'image': '/images/img-arcadia.jpg',
-        'logo': '/images/logo-arcadia.svg',
-        'title': 'some food',
-        'lead': `Authentic Mediterranean dining at the heart of Lausanne's arts district`,
-        'description': `Arcadia Restaurant, with its seven iconic arches, opens the door to a la carte Mediterranean cuisine, balancing fresh flavours with seasonal local ingredients and products. Our menu is served alongside an inspired cocktail offering and a selection of local beer and wines. <br><br>
-        For those looking for a relaxed, tasty, and inclusive dining experience, whether at lunch for everyday cooking or in the evening for a more special occasion. Always in a relaxed and friendly environment.`,
+        'image': '/images/About-image.png',
+        'logo': '',
+        'title': 'ABOUT',
+        'lead': `MISSING OBJECT LIBRARY`,
+        'description': `In our research as new media artists and educators, we have found that commercial 3D image libraries (virtual storefronts with digital assets used in game design, Hollywood special effects, etc) almost exclusively sell depersonalized and culturally non-specific 3D objects for mass consumption and mainstream use. Employed across many domains, from VR experiences to corporate marketing, these models are conservative in form and structure, and anchored in a capitalist studio production mold. They are devoid of a provenance, an aura (in Walter Benjamin’s terms), and a sense of history. <br><br> The limitations of the commercial asset libraries create a media landscape that reinscribes notions of false neutrality, reaffirming Audre Lorde’s “mythical norm” postulation, privileging representations of a material culture for the “white, thin, male, young, heterosexual, Christian, and financially secure”. Biases within the 3D model marketplace undergird marginality and shape a narrative that misrepresents the “real world” – erasing diverse experiences, voices, and cultural objects. 
+        <br><br>
+        We are currently developing the Missing Object Library (MOL), a web-based curated repository of hand-made digital objects that fill a void in the existing offerings from companies who provide fully rendered 3D models to “game developers, news agencies, architects, visual effects studios, advertisers, and creative professionals around the world” (TurboSquid). MOL disrupts historical gatekeeping performed by “neutral” marketplaces by offering 3D modeled objects with an intersectional lens spanning a wide range of identities beyond the white, cis, heteronormative domain. MOL expands the possibilities of new media art and commercial projects by providing creators with a carefully curated library of models that consider a range of social categorizations such as race, class, gender, and disability. 
+
+        `,
         'schedule': [
           '10:00 - 23:00',
           'Closed',
@@ -208,7 +211,7 @@ export default class Interests {
       },
       {
         'image': '/images/img-nabi.jpg',
-        'logo': '/images/logo-nabi.svg',
+        'logo': '/images/MOL.png',
         'title': 'Le Nabi Café-Restaurant',
         'lead': `Traditional cuisine to savour before or after a visit to Plateforme 10!`,
         'description': `The menu aims to be inviting, familial, yet inventive. Traditional cooking is restyled while the menu follows the seasons by adapting to the harvest of local producers. The drinks are artisanal. Meticulous service at reasonable prices for a convivial moment that everyone can afford to enjoy. Kids are very much welcome, too. Menu selections are designed for savory discoveries, and a play area encourages creativity.`,
@@ -229,10 +232,10 @@ export default class Interests {
       },
       {
         'image': '/images/img-lumen.jpg',
-        'logo': '/images/logo-lumen.svg',
-        'title': 'Lumen Café',
-        'lead': `A spontaneous and fast cuisine with authentic artisanal products`,
-        'description': `Le Café Lumen invites you to discover its menu of quick and spontaneous dishes that use artisanal products served simply on a board, in a clay bowl, or nestled between two slices of focaccia. Here you will find the best of the region’s culinary tradition. All our drinks are artisanal with a fine selection of craft cider and beer, wine, and homemade non-alcoholic beverages. Our coffee is freshly roasted. We’re a stop along the region’s greenway, the Voie Verte foot and bicycle path, with takeaway service available.`,
+        'logo': '/images/MOL.png',
+        'title': 'Hidden Hygiene',
+        'lead': `Hidden Hygiene" is a groundbreaking exhibit that challenges the limitations of commercial 3D image libraries, which perpetuate false neutrality and the "mythical norm" as described by Audre Lorde.`,
+        'description': `This exhibit, part of the Missing Object Library (MOL), focuses on personal care objects and practices, viewed through the lens of feminist technologies. By offering 3D models that consider a range of social categorizations, MOL disrupts the historical gatekeeping of mainstream asset libraries. "Hidden Hygiene" showcases thoughtfully curated models by diverse artists, designers, and historians, illuminating the unique experiences of women and non-binary individuals from various cultures and backgrounds. <br><br> Explore the untold stories of personal care, from menstrual care innovations to adaptive aids for mothers with disabilities. As an open platform, MOL aims to critique existing 3D model databases and inspire a more inclusive dialogue around hygiene and self-care, empowering creators, educators, and the general public to engage with diverse perspectives and embrace the richness of human experiences.`,
         'schedule': [
           '10:00 - 18:00',
           'Closed',
